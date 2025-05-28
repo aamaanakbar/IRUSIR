@@ -40,4 +40,5 @@ Some sample images have already been provided in `datasets/samples`.
 
 
 
-This code is borrowed from "robust unsupervised stylegan image restoration".
+
+This code is borrowed from [robust unsupervised stylegan image restoration](https://github.com/yohan-pg/robust-unsupervised)
