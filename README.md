@@ -1,7 +1,7 @@
 # Investigating Robustess of  Unsupervised StyleGAN Image Restoration
 ### [[Arxiv]]() [[Website]](https://aamaanakbar.github.io/investigating_rusir/)
 
-Code for the paper `Robust Unsupervised StyleGAN Image Restoration` presented at CVPR 2023. 
+This paper `Investigating Robustess of  Unsupervised StyleGAN Image Restoration` will be presented at ICIP 2025. 
 
 ## Installation
 
